@@ -67,6 +67,17 @@ python forecast.py --hours 48
 
 This will plot the forecast for the next 48 hours using the trained SARIMAX model and the latest available weather data.
 
+### Demo
+
+#### Dashboard Walkthrough (Video)
+![Dashboard Walkthrough](2.gif)
+
+#### Forecast Script (Video)
+![Forecast Script](1.gif)
+
+#### Forecast Output (Image)
+![Forecast Output](output.png)
+
 ## Data Source
 
 -   [UCI Electric Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
