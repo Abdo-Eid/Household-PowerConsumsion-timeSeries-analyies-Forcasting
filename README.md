@@ -72,9 +72,6 @@ This will plot the forecast for the next 48 hours using the trained SARIMAX mode
 #### Dashboard Walkthrough (Video)
 ![Dashboard Walkthrough](2.gif)
 
-#### Forecast Script (Video)
-![Forecast Script](1.gif)
-
 #### Forecast Output (Image)
 ![Forecast Output](output.png)
 
